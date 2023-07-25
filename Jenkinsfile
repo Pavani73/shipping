@@ -26,7 +26,7 @@ pipeline {
 
     stage('CODE ANALYSIS') {
         steps {
-          echo 'CODE ANALYSIS'
+
            }
         }
 
